@@ -55,3 +55,5 @@ print(f"ASCII untuk 'u' adalah {ascii_code}")
 data = "otong surotong pararotong"
 jumlah = data.count("o")
 print(f"Jumlah 'o' di nama {data} adalah {jumlah}")
+
+#besok lagi yaww

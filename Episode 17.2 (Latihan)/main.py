@@ -10,3 +10,5 @@ if cek_judul == True:
 else:
     print(f"{data1} bukanlah judul")
     
+    
+print(data1.center(50))

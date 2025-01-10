@@ -39,6 +39,7 @@ print(f"apakah halo apa kabar dimulai dengan halo = {cek_start}")
 cek_end = "halo apa kabar".endswith("kabar")
 print(f"apakah halo apa kabar diakhiri dengan kabar = {cek_end}")
 
+# contoh penggunaan join dan split
 pisah = ['aku','adalah','aku']
 gabung = ' '.join(pisah)
 print(pisah)
